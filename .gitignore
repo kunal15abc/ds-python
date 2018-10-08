@@ -1,0 +1,3 @@
+.DS_Store
+*.pyc
+        GtkWidget *label = gtk_label_new("Hello World!");
