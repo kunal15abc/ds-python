@@ -28,6 +28,7 @@ def inorderWithoutRecusrion(root):
 if __name__ == '__main__':
     a = [2, 4, 3, 7, 9, 8, 5, 1, 6]
     root = Node(a[0])
+    print('test')
     for i in range(1, len(a)):
         sortList(root, a[i])
 
